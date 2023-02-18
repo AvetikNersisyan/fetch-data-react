@@ -1,4 +1,4 @@
-#### [NPM link](https://www.npmjs.com/package/fetch-data-react "Heading link")
+#### [NPM link](https://www.npmjs.com/package/fetch-data-react "package link in npm")
 
 `useFetch`
 
